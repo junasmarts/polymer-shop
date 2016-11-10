@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SHOP
 
 ### Setup
@@ -42,3 +43,7 @@ This command serves the minified version of the app in an unbundled state, as it
 This command serves the minified version of the app generated using fragment bundling:
 
     polymer serve build/bundled
+=======
+# polymer-shop
+Shop Polymer Example
+>>>>>>> 6d7f31c2eec774536426df84ef8566e313ae0ae8
